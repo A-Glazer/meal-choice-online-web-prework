@@ -3,7 +3,7 @@
 
 def meal_choice(meal = "meat")
   meal_choice = (meal)
-  puts meal_choice
+  meal_choice
 end
 
 meal_choice()
