@@ -6,5 +6,5 @@ def meal_choice(meal = "meat")
   puts meal_choice
 end
 
-puts meal_choice
-puts meal_choice(vegan)
+puts and return meal_choice
+puts and return meal_choice(vegan)
