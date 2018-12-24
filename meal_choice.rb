@@ -6,4 +6,4 @@ def meal_choice(meal)
   puts meal_choice
 end
 
-meal_choice(meat)
+meal_choice("meat")
