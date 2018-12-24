@@ -3,5 +3,5 @@
 
 def meal_choice(meal)
   meal_choice = #{meal}
-  meal_choice
+  puts meal_choice
 end
