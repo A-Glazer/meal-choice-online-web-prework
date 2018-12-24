@@ -2,8 +2,8 @@
 # passed into it and defaults to meat.
 
 def meal_choice(meal=meat)
-  meal_choice = meal
+  meal_choice = #{meal}
   puts meal_choice
 end
 
-meal_choice()
+puts meal_choice()
