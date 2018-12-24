@@ -7,4 +7,5 @@ def meal_choice(meal = "meat")
 end
 
 puts and return meal_choice
+
 puts and return meal_choice(vegan)
